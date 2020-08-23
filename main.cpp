@@ -1,4 +1,10 @@
-﻿#include "mainwindow.h"
+﻿/**
+ * @author:licheng
+ * @time:2019-12-16
+ */
+
+
+#include "mainwindow.h"
 
 #include <QApplication>
 #include <QFile>
